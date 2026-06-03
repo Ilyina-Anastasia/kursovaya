@@ -1,0 +1,38 @@
+﻿  Camera.cpp
+  debout.cpp
+  GUItextRectangle.cpp
+  Light.cpp
+  main.cpp
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(143,23): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(143,28): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(143,33): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(145,23): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(145,28): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(145,33): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,28): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,28): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,34): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,34): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Light.cpp(149,40): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  MyOGL.cpp
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\MyOGL.cpp(142,27): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\MyOGL.cpp(145,29): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+  MyShaders.cpp
+  ObjLoader.cpp
+  Render.cpp
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(394,65): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(394,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(447,65): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(447,35): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(685,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(685,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(685,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(686,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(686,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(687,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(687,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\KGlab\Render.cpp(687,31): warning C4305: инициализация: усечение из "double" в "float"
+  Texture.cpp
+  Создание кода...
+  KGlab.vcxproj -> C:\Users\a9260\OneDrive\Рабочий стол\курса+\LAB4+\x64\Debug\KGlab.exe
